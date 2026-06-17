@@ -1,3 +1,6 @@
+<p align="center">
+<img src="sushmitha photo..pdf" width="220" style="border-radius:50%">
+</p>
 <h1 align="center">Hi 👋, I'm Gulivindala Sushmitha</h1>
 
 <h3 align="center">AI Engineer | GenAI Developer | B.Tech Student</h3>
