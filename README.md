@@ -1,5 +1,5 @@
 <p align="center">
-<img src="sushmitha photo..pdf" width="220" style="border-radius:50%">
+<img src="sushmithaphoto_page-0001.jpg" width="220" style="border-radius:50%">
 </p>
 <h1 align="center">Hi 👋, I'm Gulivindala Sushmitha</h1>
 
